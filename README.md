@@ -1,15 +1,33 @@
-# CS-250 Sprint Review & Retrospective
+# CS 250 – Sprint Review & Retrospective
 
-## 📄 Description
-This Sprint Review and Retrospective demonstrates how I applied Agile and Scrum practices to interpret user needs, manage tasks, and reflect on team performance. Including it in my portfolio highlights growth in collaboration, adaptability, and continuous improvement.
+## Overview
+This repository contains my Sprint Review and Sprint Retrospective for CS 250: Software Development Lifecycle. These documents demonstrate my understanding of Agile methodology, Scrum roles, communication strategies, and continuous improvement within an iterative development environment.
 
-## Essential Questions
+## Sprint Review Summary
+The Sprint Review evaluates the work completed during the sprint and examines how well the increment aligns with stakeholder expectations. Key elements include:
+- Completed backlog items and their alignment with user needs
+- Demonstration of the working increment
+- Stakeholder feedback and its impact on future sprint planning
+- Adjustments to the product backlog based on new insights
 
-**1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**  
-User stories help me understand requirements from the user’s perspective, guiding development toward meaningful solutions. They break down complex goals into manageable tasks and keep the focus on customer value.
+## Sprint Retrospective Summary
+The Sprint Retrospective focuses on team performance and opportunities for improvement. It highlights:
+- What went well during the sprint
+- Challenges, blockers, and communication gaps
+- Actionable steps to improve future sprints
+- The importance of transparency, adaptability, and continuous learning
 
-**2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**  
-I approach development iteratively, using sprints to deliver working features and gather feedback. I plan to incorporate sprint planning, retrospectives, backlog refinement, and continuous testing to stay flexible and user-focused.
+## Key Agile Concepts Demonstrated
+- Backlog refinement and prioritization  
+- Incremental development and delivery  
+- Cross-functional collaboration  
+- Effective communication within Scrum roles  
+- Continuous improvement through reflection and adaptation  
 
-**3. What does it mean to be a good team member in software development?**  
-It means communicating clearly, collaborating effectively, and being accountable. A good team member supports others, contributes ideas, adapts to change, and helps the team achieve shared goals.
+## Purpose of This Repository
+This project showcases my ability to analyze and document Agile processes in a structured, reflective way. It demonstrates my communication skills, my understanding of Scrum ceremonies, and my commitment to improving team workflows and development outcomes.
+
+## Files Included
+- **SprintReview** – Evaluation of sprint outcomes and stakeholder alignment  
+- **SprintRetrospective** – Reflection on team performance and improvement strategies  
+- **README.md** – Project overview and Agile context  
